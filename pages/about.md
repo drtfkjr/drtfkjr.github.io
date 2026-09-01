@@ -13,3 +13,13 @@ My research spans two interconnected areas: sports biomechanics, exploring human
 Beyond research, I'm building toward a future that includes multiple business ventures, a foundation dedicated to STEM education in the Caribbean, and a personal investment portfolio - all grounded in a faith-centered, community-first mindset.
 
 This site is a living portfolio of my research, projects, and journey.
+
+## Honors & Awards
+
+- University of Florida HWCOE Dean's Research Award
+- American Society of Biomechanics Travel Award
+- University of Florida Intellectual Property for Innovators
+- Anaplan For All Fellowship Program
+- Mayo Clinic Summer Undergraduate Research Fellowship
+- Governor General's Youth Award — Silver & Bronze Medalist
+- National Honors for Outstanding BGCSE Results
