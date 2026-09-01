@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<img src="/assets/img/ProfessionalPhoto.png" alt="Troy Kelly Jr" style="width:200px; border-radius:50%; display:block; margin:auto;">
+<img src="/assets/img/ProfessionalPhoto.PNG" alt="Troy Kelly Jr" style="width:200px; border-radius:50%; display:block; margin:auto;">
 
 Hello, I'm Troy Kelly Jr - a PhD researcher in Biomedical Engineering at the University of Florida, originally from the Bahamas.
 
