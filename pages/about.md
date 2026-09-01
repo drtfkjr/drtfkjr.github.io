@@ -4,4 +4,10 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hello, I'm Troy Kelly Jr - a PhD researcher in Biomedical Engineering at the University of Florida, originally from the Bahamas.
+
+My research spans two interconnected areas: sports biomechanics, exploring human movement and athletic performance; and osteoarthritis, where I use force analysis, EMG, and quantitative sensory testing to better understand pain and its relationship to musculoskeletal function. Underlying both areas is a passion for health disparities research and a commitment to studying underrepresented and understudied populations.
+
+Beyond research, I'm building toward a future that includes multiple business ventures, a foundation dedicated to STEM education in the Caribbean, and a personal investment portfolio - all grounded in a faith-centered, community-first mindset.
+
+This site is a living portfolio of my research, projects, and journey.
