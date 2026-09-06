@@ -51,9 +51,9 @@ Ultrasound Imaging, Quantitative Sensory Testing (QST), ImageJ
 ## Teaching Experience
 
 **Senior Design I (BME4882)** - University of Florida
-*Graduate Teaching Assistant · Fall 2024*
-Supported course delivery and student development in product development and project management.
-Contributed to undergraduate instruction for 180+ students across two semesters.
+- *Graduate Teaching Assistant · Fall 2024*
+- Supported course delivery and student development in product development and project management.
+- Contributed to undergraduate instruction for 180+ students across two semesters.
 
 **Biomedical Fundamentals (BME3060)** - University of Florida
 *Graduate Teaching Assistant · Fall 2025*
