@@ -20,7 +20,7 @@ social:
 - {icon: 'github', link:   'https://github.com/drtfkjr'}
 - {icon: 'envelope', link:   'mailto:troy.kelly@ufl.edu'}
 - {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=3lT4gakAAAAJ&hl=en'}
-- {icon: 'id-card', link: 'https://orcid.org/0009-0004-2752-6819'}
+- {icon: 'link', link: 'https://orcid.org/0009-0004-2752-6819'}
 
 # Customize site text
 pagination:
