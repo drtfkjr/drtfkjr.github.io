@@ -76,19 +76,20 @@ permalink: /projects/
 <span class="status-badge status-complete">🔵 Complete</span>
 <h3>Baseball Player Clustering Analysis</h3>
 <p>Performed hierarchical clustering analysis integrating ArmCare, VALD Force Deck, Trackman, 
-and previous season statistics to identify performance profiles and understand how the best 
+and previous season statistics to identify performance profiles and understand how best 
 players perform across measurable metrics.</p>
 <span class="project-tag">Python</span>
 <span class="project-tag">Hierarchical Clustering</span>
 <span class="project-tag">Baseball</span>
 <span class="project-tag">Trackman</span>
+<span class="project-tag">VALD ForceDecks</span>
 </div>
 
 <div class="project-card">
 <span class="status-badge status-complete">🔵 Complete</span>
 <h3>Basketball Program Development Score</h3>
 <p>Built a model to evaluate which college basketball programs get the most out of the talent 
-they recruit — quantifying program development efficiency using player progression metrics.</p>
+they recruit - quantifying program development efficiency using player progression metrics.</p>
 <span class="project-tag">Python</span>
 <span class="project-tag">Data Modeling</span>
 <span class="project-tag">Basketball</span>
@@ -99,7 +100,7 @@ they recruit — quantifying program development efficiency using player progres
 <span class="status-badge status-complete">🔵 Complete</span>
 <h3>NBA Player Archetype Evolution (ML)</h3>
 <p>Applying machine learning to explore how player archetypes within the NBA have evolved over 
-time — identifying positional and performance trends through unsupervised learning methods.</p>
+time - identifying positional and performance trends through unsupervised learning methods.</p>
 <span class="project-tag">Machine Learning</span>
 <span class="project-tag">NBA</span>
 <span class="project-tag">Python</span>
@@ -109,7 +110,7 @@ time — identifying positional and performance trends through unsupervised lear
 <div class="project-card">
 <span class="status-badge status-active">🟢 Active</span>
 <h3>Fatigue & Basketball Shooting Performance</h3>
-<p>Investigating the impact of fatigue on basketball players' shot success and shot kinematics — 
+<p>Investigating the impact of fatigue on basketball players' shot success and shot kinematics - 
 combining biomechanical data with performance outcomes to understand how fatigue affects 
 shooting mechanics.</p>
 <span class="project-tag">Kinematics</span>
@@ -131,11 +132,11 @@ shooting mechanics.</p>
 <div class="project-card">
 <span class="status-badge status-active">🟢 Active</span>
 <h3>Biomechanics Data Analysis Pipeline</h3>
-<p>Developing Python and MATLAB-based pipelines for processing and analyzing motion capture, 
+<p>Developing Python-based pipelines for processing and analyzing motion capture, 
 EMG, and force data from musculoskeletal research studies — improving workflow efficiency 
 across multiple ongoing research projects.</p>
 <span class="project-tag">Python</span>
-<span class="project-tag">MATLAB</span>
+<span class="project-tag">Motion Capture</span>
 <span class="project-tag">EMG</span>
 <span class="project-tag">Data Pipeline</span>
 </div>
@@ -167,7 +168,6 @@ children, and elderly populations including those with disabilities.
 Published in AHFE 2019.</p>
 <span class="project-tag">Wearables</span>
 <span class="project-tag">Orthopedics</span>
-<span class="project-tag">Published</span>
 </div>
 
 <div class="project-card">
@@ -188,7 +188,6 @@ self-activated photoluminescent properties for potential LED and fluorescent lig
 applications.</p>
 <span class="project-tag">Materials Science</span>
 <span class="project-tag">Chemistry</span>
-<span class="project-tag">LED</span>
 </div>
 
 <div class="project-card">
