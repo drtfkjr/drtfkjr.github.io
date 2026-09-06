@@ -96,7 +96,7 @@ they recruit — quantifying program development efficiency using player progres
 </div>
 
 <div class="project-card">
-<span class="status-badge status-progress">🔵 Complete</span>
+<span class="status-badge status-complete">🔵 Complete</span>
 <h3>NBA Player Archetype Evolution (ML)</h3>
 <p>Applying machine learning to explore how player archetypes within the NBA have evolved over 
 time — identifying positional and performance trends through unsupervised learning methods.</p>
