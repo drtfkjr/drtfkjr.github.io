@@ -59,3 +59,8 @@ Contributed to undergraduate instruction for 180+ students across two semesters.
 *Graduate Teaching Assistant · Fall 2025*
 Supported course delivery and student development in foundational biomedical engineering concepts.
 Contributed to undergraduate instruction for 180+ students across two semesters.
+
+**Guest Lecturer — Applied Physiology & Kinesiology (APK Masters Program)**
+*University of Florida*
+Delivered asynchronous lecture on basketball performance analysis and the 
+application of AI in sports science for graduate students in the APK Masters program.
