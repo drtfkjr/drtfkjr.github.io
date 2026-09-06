@@ -107,7 +107,7 @@ time — identifying positional and performance trends through unsupervised lear
 </div>
 
 <div class="project-card">
-<span class="status-badge status-active">🟢 In Progress</span>
+<span class="status-badge status-active">🟢 Active</span>
 <h3>Fatigue & Basketball Shooting Performance</h3>
 <p>Investigating the impact of fatigue on basketball players' shot success and shot kinematics — 
 combining biomechanical data with performance outcomes to understand how fatigue affects 
