@@ -118,6 +118,14 @@ span[style*="background:#f0f0f0"] {
   color: #C9A84C;
 }
 
+.footer-description a {
+  text-decoration: none !important;
+}
+
+.footer a {
+  text-decoration: none !important;
+}
+
 /* =====================
    BODY & TYPOGRAPHY
    ===================== */
@@ -147,3 +155,5 @@ p {
   h2 { font-size: 1.3em; }
   .page-content { padding: 20px 15px; }
 }
+
+
