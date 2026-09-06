@@ -104,7 +104,7 @@ Kelly Jr, T.F., Santos, J., Ullah, M., (2019). "Exploring Carbon Nanotubes for V
 ### Sports Science
 
 <div class="pub-entry">
-<span class="status-badge status-active">🟡 In Review</span><br>
+<span class="status-badge status-review">🟡 In Review</span><br>
 Kelly Jr, T.F., Wilkins, C., Boyer, K., Nichols, J.A. "A Machine Learning Approach to Exploring 
 the Evolution of Player Archetypes within the NBA".
 </div>
