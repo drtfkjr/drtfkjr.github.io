@@ -15,5 +15,5 @@ permalink: /service/
 
 ## Guest Lectures & Invited Talks
 
-- Guest Lecturer, APK Masters Program — Basketball Performance & AI in Sports Science, 
+- Guest Lecturer, APK Masters Program - Basketball Performance & AI in Sports Science, 
 University of Florida (2025)
