@@ -133,7 +133,7 @@ shooting mechanics.</p>
 <span class="status-badge status-active">🟢 Active</span>
 <h3>Biomechanics Data Analysis Pipeline</h3>
 <p>Developing Python-based pipelines for processing and analyzing motion capture, 
-EMG, and force data from musculoskeletal research studies — improving workflow efficiency 
+EMG, and force data from musculoskeletal research studies - improving workflow efficiency 
 across multiple ongoing research projects.</p>
 <span class="project-tag">Python</span>
 <span class="project-tag">Motion Capture</span>
