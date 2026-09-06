@@ -17,13 +17,13 @@ color:white; border-radius:4px; text-decoration:none; font-weight:600;">
 ## Education
 
 **Doctor of Philosophy, Biomedical Engineering** *(August 2023 – May 2028)*
-University of Florida — Musculoskeletal Biomechanics Lab
+University of Florida - Musculoskeletal Biomechanics Lab
 
 **Master of Science, Biomedical Engineering** *(August 2023 – December 2025)*
-University of Florida — Musculoskeletal Biomechanics Lab
+University of Florida - Musculoskeletal Biomechanics Lab
 
 **Bachelor of Science, Computer Engineering** *(August 2016 – May 2020)*
-Florida Polytechnic University — Cum Laude, GPA 3.69
+Florida Polytechnic University - Cum Laude, GPA 3.69
 
 ---
 
@@ -44,4 +44,4 @@ Ultrasound Imaging, Quantitative Sensory Testing (QST), ImageJ
 - Microsoft Azure Administrator (AZ-104)
 - Microsoft Identity and Access Administrator (SC-300)
 - Microsoft Teams Administrator (MS-700)
-- Anaplan Fellow — Level 1 & 2
+- Anaplan Fellow - Level 1 & 2
