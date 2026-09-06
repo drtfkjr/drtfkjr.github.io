@@ -86,7 +86,7 @@ players perform across measurable metrics.</p>
 </div>
 
 <div class="project-card">
-<span class="status-badge status-complete">🔵 Complete</span>
+<span class="status-badge status-active">🟢 Active</span>
 <h3>Basketball Program Development Score</h3>
 <p>Built a model to evaluate which college basketball programs get the most out of the talent 
 they recruit - quantifying program development efficiency using player progression metrics.</p>
