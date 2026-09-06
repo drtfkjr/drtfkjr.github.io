@@ -46,3 +46,8 @@ adults". Scientific Data.
 **"The impact of carpometacarpal osteoarthritis (CMC OA) on thumb-tip force, 
 movement-evoked pain, and self-reported disability"**
 *American Society of Biomechanics — Pittsburgh, Pennsylvania (2025)*
+
+---
+
+## Projects
+*Coming soon — check back for updates on my latest self-paced projects.*
