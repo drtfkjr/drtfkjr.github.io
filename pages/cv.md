@@ -45,3 +45,15 @@ Ultrasound Imaging, Quantitative Sensory Testing (QST), ImageJ
 - Microsoft Identity and Access Administrator (SC-300)
 - Microsoft Teams Administrator (MS-700)
 - Anaplan Fellow - Level 1 & 2
+
+---
+
+## Teaching Experience
+
+**Senior Design I (BME4882)** — University of Florida
+*Graduate Teaching Assistant · Fall 2024*
+Contributed to undergraduate instruction for 180+ students across two semesters.
+
+**Biomedical Fundamentals (BME3060)** — University of Florida
+*Graduate Teaching Assistant · Fall 2025*
+Supported course delivery and student development in foundational biomedical engineering concepts.
