@@ -1,0 +1,41 @@
+/* Navigation Header */
+.site-header {
+  background-color: #0A1628 !important;
+}
+
+.site-header a {
+  color: #ffffff !important;
+}
+
+.site-title {
+  color: #ffffff !important;
+}
+
+/* Active and hover nav links */
+.site-nav a:hover {
+  color: #C9A84C !important;
+}
+
+/* Page headings */
+h1, h2, h3 {
+  color: #0A1628;
+}
+
+/* Accent links */
+a {
+  color: #0A1628;
+}
+
+a:hover {
+  color: #C9A84C;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #0A1628;
+  color: #ffffff;
+}
+
+.site-footer a {
+  color: #C9A84C;
+}
