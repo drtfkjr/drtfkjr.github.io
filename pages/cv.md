@@ -9,7 +9,7 @@ permalink: /cv/
 <a href="/assets/Troy_Kelly_CV.pdf" target="_blank"
 style="display:inline-block; padding: 12px 28px; background:#0A1628; 
 color:white; border-radius:4px; text-decoration:none; font-weight:600;">
-⬇️ Download CV (PDF)
+ Download CV (PDF)
 </a>
 
 ---
