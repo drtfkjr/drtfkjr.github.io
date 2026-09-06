@@ -23,3 +23,34 @@ This site is a living portfolio of my research, projects, and journey.
 - Mayo Clinic Summer Undergraduate Research Fellowship
 - Governor General's Youth Award — Silver & Bronze Medalist
 - National Honors for Outstanding BGCSE Results
+
+---
+
+## Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 16px;">
+
+<div style="flex: 1; min-width: 200px; background:#ffffff; border-top: 4px solid #C9A84C; 
+border-radius: 6px; padding: 16px 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.07);">
+<h3 style="margin-top:0; font-size:0.95em;">🔬 Research Tools</h3>
+<p style="font-size:0.88em; color:#444;">OpenSim · Vicon Motion Capture · Intramuscular EMG · 
+Quantitative Sensory Testing · Ultrasound Imaging · ImageJ</p>
+</div>
+
+<div style="flex: 1; min-width: 200px; background:#ffffff; border-top: 4px solid #C9A84C; 
+border-radius: 6px; padding: 16px 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.07);">
+<h3 style="margin-top:0; font-size:0.95em;">💻 Programming & Software</h3>
+<p style="font-size:0.88em; color:#444;">Python · MATLAB · SQL · R · MedCalc · SolidWorks</p>
+</div>
+
+<div style="flex: 1; min-width: 200px; background:#ffffff; border-top: 4px solid #C9A84C; 
+border-radius: 6px; padding: 16px 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.07);">
+<h3 style="margin-top:0; font-size:0.95em;">📜 Certifications</h3>
+<p style="font-size:0.88em; color:#444;">Project Management Professional (PMP) · 
+Microsoft Azure Administrator (AZ-104) · 
+Microsoft Identity & Access Administrator (SC-300) · 
+Microsoft Teams Administrator (MS-700) · 
+Anaplan Fellow Level 1 & 2</p>
+</div>
+
+</div>
