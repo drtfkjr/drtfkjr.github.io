@@ -1,23 +1,27 @@
 ---
 ---
 
-$base-font-family: 'Roboto', sans-serif;
-$body-font-family: 'Roboto', sans-serif;
+$base-font-family: 'Inter', sans-serif;
+$body-font-family: 'Inter', sans-serif;
 $code-font-family: "Source Code Pro", monospace;
 
-$brand-color: black;
+// Brand Colors
+$brand-color: #0A1628;        // Deep Navy — primary
+$accent-color: #C9A84C;       // Gold — accent
+$background-color: #F8F8F8;   // Off-white — background
+$text-color: #1E1E1E;         // Charcoal — body text
 
 $container-width: 1100px;
 $tablet-width: 600px;
 $phone-width: 480px;
-
 $header-thickness: 56px;
-
 $icon-transition-time: 1.0s;
-$envelope-color: #f39c12;
+
+// Social Icon Colors
+$envelope-color: #C9A84C;
 $twitter-color: #00aced;
 $instagram-color: #375989;
-$github-color: #343434;
+$github-color: #0A1628;
 $linkedin-color: #0073a4;
 $facebook-color: #3d5b99;
 $google-color: #e64a41;
