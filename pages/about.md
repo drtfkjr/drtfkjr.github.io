@@ -21,7 +21,7 @@ This site is a living portfolio of my research, projects, and journey.
 - University of Florida Intellectual Property for Innovators
 - Anaplan For All Fellowship Program
 - Mayo Clinic Summer Undergraduate Research Fellowship
-- Governor General's Youth Award — Silver & Bronze Medalist
+- Governor General's Youth Award - Silver & Bronze Medalist
 - National Honors for Outstanding BGCSE Results
 
 ---
