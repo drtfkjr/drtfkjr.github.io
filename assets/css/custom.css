@@ -1,6 +1,9 @@
-/* Navigation Header */
+/* =====================
+   NAVIGATION HEADER
+   ===================== */
 .site-header {
   background-color: #0A1628 !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .site-header a {
@@ -11,17 +14,32 @@
   color: #ffffff !important;
 }
 
-/* Active and hover nav links */
+/* Nav link hover */
+.site-nav a {
+  transition: color 0.3s ease;
+}
+
 .site-nav a:hover {
   color: #C9A84C !important;
 }
 
-/* Page headings */
-h1, h2, h3 {
+/* =====================
+   PAGE HEADINGS
+   ===================== */
+h1, h2 {
+  color: #0A1628;
+  border-bottom: 2px solid #C9A84C;
+  padding-bottom: 6px;
+  display: inline-block;
+}
+
+h3 {
   color: #0A1628;
 }
 
-/* Accent links */
+/* =====================
+   LINKS
+   ===================== */
 a {
   color: #0A1628;
 }
@@ -30,7 +48,16 @@ a:hover {
   color: #C9A84C;
 }
 
-/* Footer */
+/* =====================
+   PROFILE PHOTO
+   ===================== */
+img {
+  border: 3px solid #C9A84C;
+}
+
+/* =====================
+   FOOTER
+   ===================== */
 .site-footer {
   background-color: #0A1628;
   color: #ffffff;
@@ -38,4 +65,25 @@ a:hover {
 
 .site-footer a {
   color: #C9A84C;
+}
+
+/* =====================
+   BODY & TYPOGRAPHY
+   ===================== */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #F8F8F8;
+  color: #1E1E1E;
+}
+
+/* =====================
+   PAGE CONTENT
+   ===================== */
+.page-content {
+  padding: 40px 20px;
+}
+
+p {
+  line-height: 1.8;
+  font-size: 1em;
 }
