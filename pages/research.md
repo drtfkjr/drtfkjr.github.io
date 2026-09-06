@@ -65,7 +65,7 @@ dataset of kinematics, kinetics, electromyography, and imaging in healthy adults
 <a href="https://doi.org/10.1101/2025.08.21.671503" target="_blank">DOI: 10.1101/2025.08.21.671503</a>
 </div>
 
-### Other
+### Interdisciplinary Research
 
 <div class="pub-entry">
 <span class="status-badge status-complete">🔵 Published</span><br>
@@ -104,7 +104,7 @@ Kelly Jr, T.F., Santos, J., Ullah, M., (2019). "Exploring Carbon Nanotubes for V
 ### Sports Science
 
 <div class="pub-entry">
-<span class="status-badge status-active">🟢 In Progress</span><br>
+<span class="status-badge status-active">🟡 In Review</span><br>
 Kelly Jr, T.F., Wilkins, C., Boyer, K., Nichols, J.A. "A Machine Learning Approach to Exploring 
 the Evolution of Player Archetypes within the NBA".
 </div>
@@ -207,7 +207,7 @@ Hand Strength, Pain Perception, and Daily Function".
 <em>University of Florida Pain Research Day,</em> Gainesville, Florida, USA.
 </div>
 
-<div class="pres-category">Other</div>
+<div class="pres-category">Interdisciplinary Research</div>
 
 <div class="pub-entry">
 Kelly Jr, T.F., Fatemi, M., Alizad, A., Zhang, X., Webb, J. (2019). "Lamb Wave Speed as a 
