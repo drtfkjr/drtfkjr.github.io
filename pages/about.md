@@ -8,7 +8,7 @@ permalink: /about
 
 Hello, I'm Troy Kelly Jr - a PhD researcher in Biomedical Engineering at the University of Florida, originally from the Bahamas.
 
-My research spans two interconnected areas: sports biomechanics, exploring human movement and athletic performance; and osteoarthritis, where I use force analysis, EMG, and quantitative sensory testing to better understand pain and its relationship to musculoskeletal function. Underlying both areas is a passion for health disparities research and a commitment to studying underrepresented and understudied populations.
+My research spans two interconnected areas: sports biomechanics, exploring human movement and athletic performance; and osteoarthritis, where I use force analysis, motion capture, EMG, and quantitative sensory testing to better understand pain and its relationship to musculoskeletal function. Underlying both areas is a passion for health disparities research and a commitment to studying underrepresented and understudied populations.
 
 Beyond research, I'm building toward a future that includes multiple business ventures, a foundation dedicated to STEM education in the Caribbean, and a personal investment portfolio - all grounded in a faith-centered, community-first mindset.
 
@@ -40,7 +40,7 @@ Quantitative Sensory Testing · Ultrasound Imaging · ImageJ</p>
 <div style="flex: 1; min-width: 200px; background:#ffffff; border-top: 4px solid #C9A84C; 
 border-radius: 6px; padding: 16px 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.07);">
 <h3 style="margin-top:0; font-size:0.95em;">💻 Programming & Software</h3>
-<p style="font-size:0.88em; color:#444;">Python · MATLAB · SQL · R · MedCalc · SolidWorks</p>
+<p style="font-size:0.88em; color:#444;">Python · MATLAB · R · MedCalc · SolidWorks</p>
 </div>
 
 <div style="flex: 1; min-width: 200px; background:#ffffff; border-top: 4px solid #C9A84C; 
