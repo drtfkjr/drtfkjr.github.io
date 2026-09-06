@@ -14,7 +14,6 @@
   color: #ffffff !important;
 }
 
-/* Nav link hover */
 .site-nav a {
   transition: color 0.3s ease;
 }
@@ -37,6 +36,12 @@ h3 {
   color: #0A1628;
 }
 
+.page-title {
+  font-size: 2em;
+  color: #0A1628;
+  margin-bottom: 30px;
+}
+
 /* =====================
    LINKS
    ===================== */
@@ -49,10 +54,56 @@ a:hover {
 }
 
 /* =====================
+   BUTTONS
+   ===================== */
+a[style*="background:#0A1628"]:hover {
+  background-color: #C9A84C !important;
+  color: #0A1628 !important;
+}
+
+/* =====================
    PROFILE PHOTO
    ===================== */
 img {
   border: 3px solid #C9A84C;
+}
+
+/* =====================
+   LISTS
+   ===================== */
+ol li, ul li {
+  border-left: 3px solid #C9A84C;
+  padding-left: 12px;
+  margin-bottom: 10px;
+}
+
+/* =====================
+   HORIZONTAL DIVIDERS
+   ===================== */
+hr {
+  border: none;
+  border-top: 2px solid #C9A84C;
+  margin: 30px auto;
+}
+
+/* =====================
+   BLOCKQUOTES
+   ===================== */
+blockquote {
+  border-left: 4px solid #C9A84C;
+  background-color: #f0f4f8;
+  padding: 16px 20px;
+  color: #1E1E1E;
+  font-style: italic;
+  border-radius: 4px;
+}
+
+/* =====================
+   RESEARCH AREA TAGS
+   ===================== */
+span[style*="background:#f0f0f0"] {
+  border: 1px solid #0A1628;
+  font-weight: 500;
 }
 
 /* =====================
@@ -86,4 +137,13 @@ body {
 p {
   line-height: 1.8;
   font-size: 1em;
+}
+
+/* =====================
+   MOBILE RESPONSIVENESS
+   ===================== */
+@media (max-width: 600px) {
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.3em; }
+  .page-content { padding: 20px 15px; }
 }
