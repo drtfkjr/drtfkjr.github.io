@@ -5,38 +5,30 @@
   background-color: #0A1628 !important;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
-
 .site-header a {
   color: #C9A84C !important;
 }
-
 .site-title {
   color: #C9A84C !important;
 }
-
 .site-nav a {
   transition: color 0.3s ease;
 }
-
 .site-nav a:hover {
   color: #C9A84C !important;
 }
-
 /* Mobile hamburger icon */
 .menu-icon {
   color: #ffffff !important;
 }
-
 .menu-icon span,
 .menu-icon span::before,
 .menu-icon span::after {
   background-color: #ffffff !important;
 }
-
 .site-nav .menu-icon > svg path {
   fill: #ffffff !important;
 }
-
 /* =====================
    MOBILE DROPDOWN MENU
    ===================== */
@@ -45,18 +37,15 @@
   border: 1px solid #0A1628 !important;
   padding: 10px 0 !important;
 }
-
 .site-nav .trigger a {
   color: #0A1628 !important;
   display: block !important;
   padding: 8px 16px !important;
 }
-
 .site-nav .trigger a:hover {
   color: #ffffff !important;
   background-color: rgba(10, 22, 40, 0.2) !important;
 }
-
 /* =====================
    PAGE HEADINGS
    ===================== */
@@ -66,28 +55,23 @@ h1, h2 {
   padding-bottom: 6px;
   display: inline-block;
 }
-
 h3 {
   color: #0A1628;
 }
-
 .page-title {
   font-size: 2em;
   color: #0A1628;
   margin-bottom: 30px;
 }
-
 /* =====================
    LINKS
    ===================== */
 a {
   color: #0A1628;
 }
-
 a:hover {
   color: #C9A84C;
 }
-
 /* =====================
    BUTTONS
    ===================== */
@@ -95,14 +79,12 @@ a[style*="background:#0A1628"]:hover {
   background-color: #C9A84C !important;
   color: #0A1628 !important;
 }
-
 /* =====================
    PROFILE PHOTO
    ===================== */
 img {
   border: 3px solid #C9A84C;
 }
-
 /* =====================
    LISTS
    ===================== */
@@ -111,7 +93,6 @@ ol li, ul li {
   padding-left: 12px;
   margin-bottom: 10px;
 }
-
 /* =====================
    HORIZONTAL DIVIDERS
    ===================== */
@@ -120,7 +101,6 @@ hr {
   border-top: 2px solid #C9A84C;
   margin: 30px auto;
 }
-
 /* =====================
    BLOCKQUOTES
    ===================== */
@@ -132,7 +112,6 @@ blockquote {
   font-style: italic;
   border-radius: 4px;
 }
-
 /* =====================
    RESEARCH AREA TAGS
    ===================== */
@@ -140,7 +119,6 @@ span[style*="background:#f0f0f0"] {
   border: 1px solid #0A1628;
   font-weight: 500;
 }
-
 /* =====================
    FOOTER
    ===================== */
@@ -148,19 +126,15 @@ span[style*="background:#f0f0f0"] {
   background-color: #0A1628;
   color: #ffffff;
 }
-
 .site-footer a {
   color: #C9A84C;
 }
-
 .footer-description a {
   text-decoration: none !important;
 }
-
 .footer a {
   text-decoration: none !important;
 }
-
 /* =====================
    BODY & TYPOGRAPHY
    ===================== */
@@ -169,40 +143,32 @@ body {
   background-color: #F8F8F8;
   color: #1E1E1E;
 }
-
 /* =====================
    PAGE CONTENT
    ===================== */
 .page-content {
   padding: 40px 20px;
 }
-
 p {
   line-height: 1.8;
   font-size: 1em;
 }
-
 /* =====================
    MOBILE RESPONSIVENESS
    ===================== */
 @media (max-width: 768px) {
-
   h1 { font-size: 1.6em; }
   h2 { font-size: 1.3em; }
-
   /* Hero banner */
   div[style*="background-image"] {
     padding: 40px 15px !important;
   }
-
   div[style*="background-image"] h1 {
     font-size: 1.6em !important;
   }
-
   div[style*="background-image"] p {
     font-size: 0.85em !important;
   }
-
   /* Buttons in hero — stack vertically */
   div[style*="background-image"] a {
     display: block !important;
@@ -210,45 +176,50 @@ p {
     text-align: center !important;
     width: 80% !important;
   }
-
   /* Research area tags */
   div[style*="flex-wrap"] {
     flex-direction: column !important;
     align-items: center !important;
   }
-
   /* Currently Working On cards */
   div[style*="width: 220px"] {
     width: 90% !important;
   }
-
   /* Project cards */
   .project-card {
     width: 100% !important;
   }
-
   /* Skills cards */
   div[style*="min-width: 200px"] {
     min-width: 100% !important;
   }
-
   /* Navigation */
   .site-header {
     padding: 10px 15px !important;
   }
-
   /* General text */
   body {
     font-size: 0.95em !important;
   }
-
   /* Page content padding */
   .page-content {
     padding: 20px 15px !important;
   }
-
+  /* Navigation layout flip */
+  .site-header .wrapper {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
+    align-items: center !important;
+  }
+  .site-nav {
+    margin-right: 15px !important;
+  }
+  .site-nav .trigger {
+    left: 0 !important;
+    right: auto !important;
+  }
 }
-
 /* =====================
    MOBILE DROPDOWN FONT FIX
    ===================== */
