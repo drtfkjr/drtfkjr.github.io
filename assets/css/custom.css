@@ -22,6 +22,33 @@
   color: #C9A84C !important;
 }
 
+/* Mobile hamburger icon */
+.menu-icon {
+  color: #ffffff !important;
+}
+
+.menu-icon span,
+.menu-icon span::before,
+.menu-icon span::after {
+  background-color: #ffffff !important;
+}
+
+/* Mobile dropdown menu */
+.site-nav .trigger {
+  background-color: #0A1628 !important;
+  border: 1px solid #C9A84C !important;
+}
+
+.site-nav .trigger a {
+  color: #ffffff !important;
+  display: block;
+  padding: 8px 16px;
+}
+
+.site-nav .trigger a:hover {
+  color: #C9A84C !important;
+}
+
 /* =====================
    PAGE HEADINGS
    ===================== */
@@ -150,17 +177,10 @@ p {
 /* =====================
    MOBILE RESPONSIVENESS
    ===================== */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
+
   h1 { font-size: 1.6em; }
   h2 { font-size: 1.3em; }
-  .page-content { padding: 20px 15px; }
-}
-
-
-/* =====================
-   MOBILE RESPONSIVENESS
-   ===================== */
-@media (max-width: 768px) {
 
   /* Hero banner */
   div[style*="background-image"] {
@@ -175,7 +195,7 @@ p {
     font-size: 0.85em !important;
   }
 
-  /* Buttons in hero */
+  /* Buttons in hero — stack vertically */
   div[style*="background-image"] a {
     display: block !important;
     margin: 10px auto !important;
