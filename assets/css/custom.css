@@ -157,3 +157,66 @@ p {
 }
 
 
+/* =====================
+   MOBILE RESPONSIVENESS
+   ===================== */
+@media (max-width: 768px) {
+
+  /* Hero banner */
+  div[style*="background-image"] {
+    padding: 40px 15px !important;
+  }
+
+  div[style*="background-image"] h1 {
+    font-size: 1.6em !important;
+  }
+
+  div[style*="background-image"] p {
+    font-size: 0.85em !important;
+  }
+
+  /* Buttons in hero */
+  div[style*="background-image"] a {
+    display: block !important;
+    margin: 10px auto !important;
+    text-align: center !important;
+    width: 80% !important;
+  }
+
+  /* Research area tags */
+  div[style*="flex-wrap"] {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  /* Currently Working On cards */
+  div[style*="width: 220px"] {
+    width: 90% !important;
+  }
+
+  /* Project cards */
+  .project-card {
+    width: 100% !important;
+  }
+
+  /* Skills cards */
+  div[style*="min-width: 200px"] {
+    min-width: 100% !important;
+  }
+
+  /* Navigation */
+  .site-header {
+    padding: 10px 15px !important;
+  }
+
+  /* General text */
+  body {
+    font-size: 0.95em !important;
+  }
+
+  /* Page content padding */
+  .page-content {
+    padding: 20px 15px !important;
+  }
+
+}
