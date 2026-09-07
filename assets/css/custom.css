@@ -229,3 +229,24 @@ p {
   color: #C9A84C !important;
   font-weight: 600 !important;
 }
+
+
+
+  /* Navigation layout flip */
+  .site-header .wrapper {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
+    align-items: center !important;
+  }
+  .site-nav {
+    margin-right: 15px !important;
+    position: relative !important;
+  }
+  .site-nav .trigger {
+    position: absolute !important;
+    left: 0 !important;
+    right: auto !important;
+    top: 100% !important;
+    min-width: 200px !important;
+  }
