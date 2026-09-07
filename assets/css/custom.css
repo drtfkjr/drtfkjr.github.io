@@ -240,3 +240,27 @@ p {
   }
 
 }
+
+/* =====================
+   MOBILE DROPDOWN MENU
+   ===================== */
+.site-nav .trigger {
+  background-color: #0A1628 !important;
+  border: 1px solid #C9A84C !important;
+  padding: 10px 0 !important;
+}
+
+.site-nav .trigger a {
+  color: #ffffff !important;
+  display: block !important;
+  padding: 8px 16px !important;
+}
+
+.site-nav .trigger a:hover {
+  color: #C9A84C !important;
+  background-color: rgba(201, 168, 76, 0.1) !important;
+}
+
+.site-nav .menu-icon > svg path {
+  fill: #ffffff !important;
+}
