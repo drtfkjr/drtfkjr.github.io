@@ -248,3 +248,13 @@ p {
   }
 
 }
+
+/* =====================
+   MOBILE DROPDOWN FONT FIX
+   ===================== */
+.site-nav .trigger a,
+.site-nav .trigger a:visited,
+.site-nav .nav-trigger ~ .trigger a {
+  color: #C9A84C !important;
+  font-weight: 600 !important;
+}
