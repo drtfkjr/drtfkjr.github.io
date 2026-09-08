@@ -202,6 +202,7 @@ p {
   /* Navigation */
   .site-header {
     padding: 10px 15px !important;
+    justify-content: flex-start !important;
   }
   /* General text */
   body {
