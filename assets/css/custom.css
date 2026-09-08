@@ -4,6 +4,8 @@
 .site-header {
   background-color: #0A1628 !important;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  display: flex !important;
+  align-items: center !important;
 }
 .site-header a {
   color: #C9A84C !important;
@@ -16,6 +18,9 @@
 }
 .site-nav a:hover {
   color: #C9A84C !important;
+}
+.dropdown {
+  order: -1 !important;
 }
 /* Mobile hamburger icon */
 .menu-icon {
@@ -205,20 +210,6 @@ p {
   .page-content {
     padding: 20px 15px !important;
   }
-  /* Navigation layout flip */
-  .site-header .wrapper {
-    display: flex !important;
-    flex-direction: row-reverse !important;
-    justify-content: flex-end !important;
-    align-items: center !important;
-  }
-  .site-nav {
-    margin-right: 15px !important;
-  }
-  .site-nav .trigger {
-    left: 0 !important;
-    right: auto !important;
-  }
 }
 /* =====================
    MOBILE DROPDOWN FONT FIX
@@ -229,4 +220,3 @@ p {
   color: #C9A84C !important;
   font-weight: 600 !important;
 }
-
