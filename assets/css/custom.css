@@ -162,7 +162,7 @@ p {
 /* =====================
    MOBILE RESPONSIVENESS
    ===================== */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   h1 { font-size: 1.6em; }
   h2 { font-size: 1.3em; }
   /* Hero banner */
@@ -221,4 +221,10 @@ p {
 .site-nav .nav-trigger ~ .trigger a {
   color: #C9A84C !important;
   font-weight: 600 !important;
+}
+
+@media (max-width: 1024px) {
+  .site-header {
+    justify-content: flex-start !important;
+  }
 }
