@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const dropbtn = document.querySelector('.dropbtn');
   const dropdown = document.querySelector('.dropdown');
 
-  dropbtn.addEventListener('click', function () {
+  dropbtn.addEventListener('click', function (e) {
+    e.stopPropagation();
     dropdown.classList.toggle('open');
   });
 
