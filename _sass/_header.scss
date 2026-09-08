@@ -35,11 +35,9 @@
 .menu-link {
   padding: 5px 10px;
 }
-
 /*
   Responsiveness with a dropdown menu
 */
-
 @media (min-width: $container-width) {
   .dropbtn {
     display: none;
@@ -83,13 +81,14 @@
     display: block;
   }
   .dropdown-content a:hover {
-    background-color: #f1f1f1
+    background-color: #f1f1f1;
   }
- .dropdown:hover .dropdown-content,
-.dropdown.open .dropdown-content {
+  .dropdown:hover .dropdown-content,
+  .dropdown:focus-within .dropdown-content {
     display: block;
   }
   .dropdown:hover .dropbtn,
-  .dropdown.open .dropbtn {
+  .dropdown:focus-within .dropbtn {
     background-color: #f1f1f1;
   }
+}
