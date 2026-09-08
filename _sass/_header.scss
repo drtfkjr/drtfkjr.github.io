@@ -83,12 +83,19 @@
   .dropdown-content a:hover {
     background-color: #f1f1f1;
   }
-  .dropdown:hover .dropdown-content,
-  .dropdown:focus-within .dropdown-content {
+   .dropdown:hover .dropdown-content {
     display: block;
   }
-  .dropdown:hover .dropbtn,
-  .dropdown:focus-within .dropbtn {
+  .dropdown:hover .dropbtn {
+    background-color: #f1f1f1;
+  }
+  .menu-toggle-checkbox {
+    display: none;
+  }
+  .menu-toggle-checkbox:checked ~ .dropdown-content {
+    display: block;
+  }
+  .menu-toggle-checkbox:checked ~ .dropbtn {
     background-color: #f1f1f1;
   }
 }
