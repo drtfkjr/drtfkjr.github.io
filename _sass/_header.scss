@@ -45,6 +45,9 @@
   .dropdown-content {
     display: none;
   }
+  .menu-toggle-checkbox {
+    display: none;
+  }
 }
 @media (max-width: $container-width) {
   .menu-list {
