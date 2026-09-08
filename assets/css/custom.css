@@ -162,7 +162,7 @@ p {
 /* =====================
    MOBILE RESPONSIVENESS
    ===================== */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   h1 { font-size: 1.6em; }
   h2 { font-size: 1.3em; }
   /* Hero banner */
